@@ -11,6 +11,7 @@ tests, and fixes its own bug before the presenter has even
 finished reading the prompt out loud. The laugh lands on the
 last line — the applause belongs to the code, and the silence
 belongs to the human who was supposed to be presenting.
+The joke is 208 Unicode code points, inside the 1-280 gate.
 """
 
 import os
